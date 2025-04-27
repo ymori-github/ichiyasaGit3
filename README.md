@@ -9,3 +9,5 @@
     - git status
 - ファイルを登録する
     - git add
+- ファイルを修正してコミットする
+    - git commit
